@@ -1,8 +1,8 @@
 # FPGA Snake Game
 
-This project implements a voice controlled snake game on a Basys 3 FPGA. The main feature is to use the pitch of a sound to control whether the snake moves left or right.
+This project implements different audio visual display features on a Basys 3 FPGA. The main feature is a voice-controlled snake game which uses the pitch of a sound to control whether the snake moves left or right.
 
-A demo of the voice controlled sname game can be seen here (click photo for link or visit https://www.youtube.com/watch?v=ZdfPtCyzK9w):
+A demo of the voice-controlled sname game can be seen here (click photo for link or visit https://www.youtube.com/watch?v=ZdfPtCyzK9w):
 
 [![Final Demo](https://img.youtube.com/vi/ZdfPtCyzK9w/0.jpg)](https://www.youtube.com/watch?v=ZdfPtCyzK9w)
 
