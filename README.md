@@ -10,3 +10,8 @@ A demo of the voice-controlled sname game can be seen here (click photo for link
 Other features implemented on the Basys 3 and operation instructions are listed below:
 
 ![Quick Start Guide](quick_start_guide.png)
+
+
+
+https://user-images.githubusercontent.com/59247141/175206782-ab4825d0-3e95-4a00-8c69-665f64886dcb.mp4
+
