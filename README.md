@@ -1,5 +1,5 @@
 March 2020
-# FPGA Snake Game
+# Snake (Game) on FPGA
 
 As part of the NUS module EE2026 Digital Design, this project implements a sound-activated snake game on a Basys 3 FPGA with a small LED screen attached.
 
